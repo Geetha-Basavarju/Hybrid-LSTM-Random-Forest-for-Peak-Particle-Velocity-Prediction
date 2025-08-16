@@ -22,7 +22,7 @@ Goal: Identify safe blasting zones while minimizing **environmental and human ri
 ## ▶️ How to Run
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/PPV-Hybrid-Predictor.git
+git clone https://github.com/Geetha-Basavaraju/PPV-Hybrid-Predictor.git
 cd PPV-Hybrid-Predictor
 
 # Install dependencies
